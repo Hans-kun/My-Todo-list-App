@@ -7,3 +7,5 @@ This is a simple Todo list and very user friendly too it has the add, update, an
  You also have the option of deleting any task you find irrelevant.
 
 This app has a little problem i haven't been able to link a fresh todo list to a new user so for now you would still be seeing my own default page i'm still working on this like i stated eariler this app is still under production if you have any ideas that you would like to share with me please do contact me on my email i would really appriciate it. Thank you  
+
+I almost forgot to mention this i followed dennis ivy's tutorial on youtube for the todo app and another of his youtube tutorial for the login page he's a great guy and i really love watching his tutorial he give's me lot of motivation. Thanks a lot dennis keep up the good work i really hope you get to see this someday and know you actually inspire someone or a lot of people 
